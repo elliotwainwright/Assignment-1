@@ -71,27 +71,11 @@ background-color:#9cdff9;
 clear:both;
 width:80%;
 margin:auto;
-padding:0.25em;
+padding:1.25em;
 font-family:"arial", sans-serif;
 color:#0588BC;
 font-size:2em;
 text-align:center;
-}
-
-a#pagelinks:link
-{
-clear:both;
-width:80%;
-margin:auto;
-padding:0.25em;
-font-family:"arial", sans-serif;
-color:#0588BC;
-text-align:center;
-}
-
-a#pagelinks:hover
-{
-color:#ffffff;
 }
 
 div.maincontainer
@@ -178,24 +162,19 @@ color:#ffffff;
 background-color:#9cdff9;
 }
 
-#allrequeststable col
-{
-width:100%;
-}
-
-a#buttonlink
+a.buttonlink
 {
 text-decoration:none;
 }
 
-a#pagelink:link
+a.pagelink:link
 {
 font-size:1.1em;
 text-align:center;
 text-decoration:none;
 color:#163880;
 }
-a#pagelink:hover
+a.pagelink:hover
 {
 color:#01baf2;
 text-decoration:underline;
