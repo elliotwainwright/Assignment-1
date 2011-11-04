@@ -20,9 +20,10 @@ h2
 {
 font-family:"arial", sans-serif;
 font-size:2em;
+color:#ffffff;
 margin:0px;
 padding:1em;
-color:#163880;
+background-color:#163880;
 }
 
 div.navmenu

@@ -3,33 +3,23 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 <title>Sign In - LJMU Staff Holiday Request System</title>
-<link rel="stylesheet" type="text/css" href="./styles/ljmushrs.css">
-
-</head>
-
+<link rel="stylesheet" type="text/css" href="./styles/ljmushrs.css">
+</head>
 <body>
 
-<h1>LJMU Staff Holiday Request System</h1>
-
+<h1>LJMU Staff Holiday Request System</h1>
 
 <p id="pageinstructions">
 Please enter your username and password then click on the 'Sign In' link below:
 </p>
 
-<div class="maincontainer">
-
-<form action="submit">
-
-<label for="username">Username</label>
-
-<input type="text" name="username" id="username">
-
-<br>
-
-<label for="password">Password</label>
-
-<input type="password" name="password" id="password">
-
+<div class="maincontainer">
+<form action="submit">
+<label for="username">Username</label>
+<input type="text" name="username" id="username">
+<br>
+<label for="password">Password</label>
+<input type="password" name="password" id="password">
 </form>
 <a class="signinlink" title="Click here to Sign In" href="allrequests.html">Sign In</a>
 </div>
@@ -44,6 +34,5 @@ Please enter your username and password then click on the 'Sign In' link below:
 <a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="./images/vcss-blue.gif" alt="Valid CSS!" ></a>
 <a href="http://validator.w3.org/check?uri=referer"><img src="./images/valid-html401-blue.png" alt="Valid HTML 4.01 Transitional"></a>
 </div>
-</body>
-
+</body>
 </html>

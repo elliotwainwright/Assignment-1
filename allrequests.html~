@@ -16,7 +16,7 @@
 </ul>
 </div>
 
-<h2>All Requests</h2>
+<h2>Add New Request</h2>
 <p id="pageinstructions">
 This page shows all of the current holiday requests. The requests are ordered by their start date.
 <br>
